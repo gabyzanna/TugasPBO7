@@ -1,0 +1,76 @@
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\TUGASPBO7.exe.config
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\TUGASPBO7.exe
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\TUGASPBO7.pdb
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\BouncyCastle.Crypto.dll
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\Google.Protobuf.dll
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\K4os.Compression.LZ4.dll
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\K4os.Hash.xxHash.dll
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\MySql.Data.dll
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\System.Buffers.dll
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\System.Memory.dll
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\System.Numerics.Vectors.dll
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\ZstdNet.dll
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\BouncyCastle.Crypto.xml
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\Google.Protobuf.pdb
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\Google.Protobuf.xml
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\K4os.Compression.LZ4.xml
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\K4os.Hash.xxHash.xml
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\MySql.Data.xml
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\System.Buffers.xml
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\System.Memory.xml
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\System.Numerics.Vectors.xml
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\obj\Debug\TUGASPBO7.csproj.AssemblyReference.cache
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\obj\Debug\TUGASPBO7.csproj.SuggestedBindingRedirects.cache
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\obj\Debug\TUGASPBO7.Form1.resources
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\obj\Debug\TUGASPBO7.Properties.Resources.resources
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\obj\Debug\TUGASPBO7.csproj.GenerateResource.cache
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\obj\Debug\TUGASPBO7.csproj.CoreCompileInputs.cache
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\obj\Debug\TUGASPBO7.csproj.CopyComplete
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\obj\Debug\TUGASPBO7.exe
+E:\(1) Tugas si uki\SEMESTER 3\(2) PEMROGRAMMAN 2\praktikum\TUGASPBO7\obj\Debug\TUGASPBO7.pdb
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\TUGASPBO7.exe.config
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\TUGASPBO7.exe
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\TUGASPBO7.pdb
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\Google.Protobuf.dll
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\MySql.Data.dll
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\System.Buffers.dll
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\System.Memory.dll
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\ZstdNet.dll
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\Google.Protobuf.pdb
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\Google.Protobuf.xml
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\MySql.Data.xml
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\System.Buffers.xml
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\System.Memory.xml
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\obj\Debug\TUGASPBO7.csproj.AssemblyReference.cache
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\obj\Debug\TUGASPBO7.csproj.SuggestedBindingRedirects.cache
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\obj\Debug\TUGASPBO7.Form1.resources
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\obj\Debug\TUGASPBO7.Properties.Resources.resources
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\obj\Debug\TUGASPBO7.csproj.GenerateResource.cache
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\obj\Debug\TUGASPBO7.csproj.CoreCompileInputs.cache
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\obj\Debug\TUGASPBO7.csproj.CopyComplete
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\obj\Debug\TUGASPBO7.exe
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\obj\Debug\TUGASPBO7.pdb
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\obj\Debug\TUGASPBO7.Form2.resources
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\obj\Debug\TUGASPBO7.Form3.resources
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\obj\Debug\TUGASPBO7.Form4.resources
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\obj\Debug\TUGASPBO7.Form5.resources
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\obj\Debug\TUGASPBO7.Form6.resources
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\obj\Debug\TUGASPBO7.Form7.resources
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\obj\Debug\TUGASPBO7.Form8.resources
+C:\Users\GABRIELLA YOUZANNA R\Downloads\TUGASPBO7\TUGASPBO7\obj\Debug\TUGASPBO7.Form9.resources
